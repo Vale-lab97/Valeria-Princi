@@ -1,5 +1,1 @@
-Sono Valeria Princi e sono una Web Developer Junior con la passione per il web e la tecnologia e soprattutto della crescita personale.
-Fin da quando ho iniziato a esplorare il mondo della programmazione, ho capito che il web è il mio habitat naturale. Amo creare siti e app web funzionali e accattivanti, sempre alla ricerca di nuove tecnologie e metodologie per migliorare le mie competenze.
-Il mio obiettivo è crescere continuamente, sia a livello professionale che personale, per poter offrire idee sempre più originali e al passo con i tempi. Credo fermamente che l’innovazione nasca dalla curiosità e dalla voglia di migliorarsi, e mi impegno ogni giorno per essere un passo avanti nel mio campo.
 
-Per la strutturazione dei siti web lato front-end utilizzo HTML , CSS , JavaScript. Mentre per il back-end utilizzo PHP e Laravel per realizzare le web app. Amo realizzare interamente i siti web scrivendo il codice personalmente , ma tra le mie conoscenza ci sono anche i CMS WordPress e Drupal. Mi dedico sporadicamente anche alla realizzazione di locandine per eventi con Canva, Photoshop, Ilustrator. Uso anche Lightroom insieme a Photoshop per la post-produzione di foto.
